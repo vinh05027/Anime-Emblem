@@ -243,7 +243,7 @@
 
   <!-- ==================== TAB 1: CHIẾN TRƯỜNG & COMBAT ==================== -->
   <div id="tacticsTab" class="tab-content">
-    <p class="subtitle">Đồng đội và kẻ địch đứng trong phạm vi 4 ô chữ thập xung quanh đều sẽ cùng tham chiến (Tối đa 4vs4)!</p>
+    <p class="subtitle">Hello Đồng đội và kẻ địch đứng trong phạm vi 4 ô chữ thập xung quanh đều sẽ cùng tham chiến (Tối đa 4vs4)!</p>
 
     <!-- THANH THEO DÕI TẦNG THÁP VÔ TẬN -->
     <div id="endlessFloorBanner" style="display:none; background:linear-gradient(90deg, rgba(232,86,124,0.18), rgba(27,25,48,0.85)); border:1px solid var(--rose); border-radius:10px; padding:10px 16px; margin-bottom:12px; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:8px;">
